@@ -1,0 +1,10 @@
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.csproj.AssemblyReference.cache
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.Form1.resources
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.Properties.Resources.resources
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.csproj.GenerateResource.cache
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.csproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\bin\Debug\SinemaOtomasyonVize.exe.config
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\bin\Debug\SinemaOtomasyonVize.exe
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\bin\Debug\SinemaOtomasyonVize.pdb
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.exe
+C:\Users\sadik\source\repos\SinemaOtomasyonVize\SinemaOtomasyonVize\obj\Debug\SinemaOtomasyonVize.pdb
